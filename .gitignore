@@ -211,3 +211,6 @@ WorldHappinessDataSet/
 
 # AI Model Files
 GMM_Models/
+
+# Logs and Generated Reports
+*.csv
